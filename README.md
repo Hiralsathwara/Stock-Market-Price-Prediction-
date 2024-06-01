@@ -16,9 +16,8 @@ User input for stock symbol and prediction duration
 Visualization of predicted and actual prices
 Easy comparison for informed decision-making
 
-Usage:
 
-Run the Streamlit app: streamlit run stock_prediction_app.py
+
 
 
 
