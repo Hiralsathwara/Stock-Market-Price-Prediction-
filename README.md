@@ -17,6 +17,7 @@ Usage:
 Run the Streamlit app: streamlit run stock_prediction_app.py
 
 
+
 Technologies Used:
 Python
 Streamlit
@@ -25,6 +26,10 @@ TensorFlow
 Matplotlib
 NumPy
 scikit-learn
+
+
 Credits:
-This project was developed by Hiral sathwara, heshva soni,and sakshi doshi. Feel free to contribute or report issues.
+This project was developed by Hiral sathwara, heshva soni,and sakshi doshi. 
+
+Feel free to contribute or report issues.
 
