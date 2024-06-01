@@ -31,6 +31,15 @@ NumPy
 scikit-learn
 
 
+
+Output:
+
+![image](https://github.com/Hiralsathwara/Stock-Market-Price-Prediction-/assets/127468119/1a760b41-f246-4802-8fa2-9fcef778b78f)
+
+
+
+
+
 Credits:
 This project was developed by Hiral sathwara, heshva soni,and sakshi doshi. 
 
